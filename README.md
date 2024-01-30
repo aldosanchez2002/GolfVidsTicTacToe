@@ -2,7 +2,7 @@
 
 Idea:
 
-Make an intercative app that allows two players to play tic tac toe using golf shots video clips.
+        Make an intercative app that allows two players to play tic tac toe using golf shots video clips.
 
 Steps:
 
